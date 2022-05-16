@@ -13,6 +13,7 @@
     	<version>3.0.0</version>
 	</dependency>
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<!-- Test comment -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
