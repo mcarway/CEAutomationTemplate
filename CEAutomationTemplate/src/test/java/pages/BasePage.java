@@ -87,4 +87,53 @@ public abstract class BasePage {
 		return bLevel;
 	}
 
+	
+	public void setSchedulingEntryID(String setID) {
+		BasePage.sEntryID=setID;
+	}
+	
+	public String getSchedulingEntryID() {
+		return sEntryID;
+	}
+	
+	public void setBundleId(String bID) {
+		BasePage.bundleId=bID;
+	}
+	
+	public String getBundleId() {
+		return bundleId;
+	}
+	
+	public void setrestrictionId(String rID) {
+		BasePage.restrictionId=rID;
+	}
+	
+	public String getrestrictionId() {
+		return restrictionId;
+	}
+	
+	public void setOrId(String var) {
+		BasePage.OrID=var;
+	}
+	
+	public String getOrId() {
+		return OrID;
+	}
+	
+	public void setbLevel(String level) {
+		BasePage.bLevel=level;
+	}
+	
+	public String getbLevel() {
+		return bLevel;
+	}
+	
+	public void setbLevel(String level) {
+		BasePage.bLevel=level;
+	}
+	
+	public String getbLevel() {
+		return bLevel;
+	}
+
 }
