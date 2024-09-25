@@ -25,7 +25,7 @@ public abstract class BasePage {
 	private static String sEntryID;
 	private static String restrictionId;
 	private static String stationID;
-	private static String equipment;;
+	private static String equipment;
 	private static String titleDesc;
 	private static String budgetClass;
 	private static String organization;
