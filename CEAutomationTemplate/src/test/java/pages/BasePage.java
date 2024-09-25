@@ -120,20 +120,4 @@ public abstract class BasePage {
 		return OrID;
 	}
 	
-	public void setbLevel(String level) {
-		BasePage.bLevel=level;
-	}
-	
-	public String getbLevel() {
-		return bLevel;
-	}
-	
-	public void setbLevel(String level) {
-		BasePage.bLevel=level;
-	}
-	
-	public String getbLevel() {
-		return bLevel;
-	}
-
 }
