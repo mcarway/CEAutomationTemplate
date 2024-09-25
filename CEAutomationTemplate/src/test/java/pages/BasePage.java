@@ -21,7 +21,7 @@ public abstract class BasePage {
 	
 	public static Long estimatedTime;
 	
-	private static String OrID;
+	private static String OrID; 
 	private static String bundleId;
 	private static String sEntryID;
 	private static String restrictionId;
