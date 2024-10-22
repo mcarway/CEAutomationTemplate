@@ -17,7 +17,7 @@ public abstract class BasePage {
 	public StringBuffer verificationErrors = new StringBuffer();
 	public ExtentReports report;
 	public ExtentTest logger;
-	//Mark's new comments again
+	//Mark's 10/22 new comments
 	
 	public static Long estimatedTime;
 	
